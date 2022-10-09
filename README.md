@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv031003&show_icons=true&locale=en" alt="dhruv031003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv031003&" alt="dhruv031003" /></p>
+<img src="https://raw.githubusercontent.com/dhruv/dhruv/blob/output/snake.svg" alt="Snake animation" />
