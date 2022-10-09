@@ -1,6 +1,3 @@
-### Hi there 👋
-
-<!--
 <h1 align="center">Hi 👋, I'm Dhruv Dorbi</h1>
 <h3 align="center">A Full Stack Developer from India.</h3>
 
@@ -28,4 +25,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv031001&" alt="dhruv031001" /></p>
 
--->
